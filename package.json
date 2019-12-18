@@ -10,7 +10,7 @@
     "server": "nodemon index.js --ignore client"
   },
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.18.1",
     "babel-polyfill": "^6.26.0",
     "better-scroll": "^1.15.2",
     "core-js": "^3.3.2",
